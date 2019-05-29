@@ -10,6 +10,8 @@ bjzt 的个人博客
 
 ### 最新
 
+* [Javalin 微服务框架的初步使用](http://jsjianwang.cn/articles/2019/05/29/1559109825698.html)
+* [用阿里开源的 easyexcel 来写excel文件](http://jsjianwang.cn/articles/2019/05/28/1559048539011.html)
 * [在云服务器上搭建个人博客(solo)](http://jsjianwang.cn/articles/2019/05/06/1557154539580.html)
 * [web项目实现打印机功能](http://jsjianwang.cn/articles/2019/05/03/1556895820567.html)
 * [springboot 缓存的简单应用](http://jsjianwang.cn/articles/2019/04/25/1556174362083.html)
