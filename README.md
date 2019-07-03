@@ -10,6 +10,7 @@ bjzt 的个人博客
 
 ### 最新
 
+* [spring-data-rest,快速开发 restful api](http://jsjianwang.cn/articles/2019/07/02/1562054411352.html)
 * [我在 GitHub 上的开源项目](http://jsjianwang.cn/my-github-repos)
 * [Javalin 微服务框架的初步使用](http://jsjianwang.cn/articles/2019/05/29/1559109825698.html)
 * [用阿里开源的 easyexcel 来写excel文件](http://jsjianwang.cn/articles/2019/05/28/1559048539011.html)
