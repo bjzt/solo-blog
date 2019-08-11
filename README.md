@@ -10,6 +10,7 @@ bjzt 的个人博客
 
 ### 最新
 
+* [自定义 spring data rest 的post\put\delete 方法](http://jsjianwang.cn/articles/2019/08/11/1565452870855.html)
 * [spring-data-rest,快速开发 restful api](http://jsjianwang.cn/articles/2019/07/02/1562054411352.html)
 * [我在 GitHub 上的开源项目](http://jsjianwang.cn/my-github-repos)
 * [Javalin 微服务框架的初步使用](http://jsjianwang.cn/articles/2019/05/29/1559109825698.html)
